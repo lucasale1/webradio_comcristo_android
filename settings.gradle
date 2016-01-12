@@ -1,0 +1,1 @@
+include ':app', ':all-fmmr'//, ':armv7-fmmr', ':arm-fmmr', ':mips-fmmr', ':x86-fmmr'
